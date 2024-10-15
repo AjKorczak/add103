@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lavender;
+}
+
+nav ,h1 ,h2{
+    text-align: center;
+}
+
+section ,footer{
+    background-color: deeppink;
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+nav a{
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    background-color: lime;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 30px;
+    border-radius: 20px;
+    border: 2px solid rgb(0, 0, 0);
+}
+nav a:hover{
+    color: lime;
+    background-color: black;
+}
+
+main img{
+    width: 25%;
+    height: auto;
+    margin: 50px;
+}
+
+img{
+    width: 25%;
+    height: auto;
+} 
+
